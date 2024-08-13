@@ -1,0 +1,10 @@
+requests
+paho-mqtt
+numpy
+torch
+matplotlib
+pymongo
+flask
+asyncio
+aiohttp
+pydantic
